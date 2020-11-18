@@ -1,0 +1,25 @@
+{
+    "trading": "交易区",
+    "star": "自选",
+    "exchange": {
+        "coinName": "币种",
+        "newPrice": "最新价",
+        "change": "涨跌幅",
+        "hignPrice": "24H最高价",
+        "lowPrice": "24H最低价",
+        "volume": "成交量",
+        "total": "24H交易额",
+        "toExChange": "去交易"
+    },
+    "description": [{
+        "title": "安全",
+        "detail": "全方位金融风控系统和防盗系统"
+    }, {
+        "title": "快捷",
+        "detail": "充值提现快速到账T+0交易一键成交"
+    }, {
+        "title": "体验",
+        "detail": "多个数字币种7X24小时交易"
+    }],
+    "qrScan": "扫描二维码，下载APP"
+}

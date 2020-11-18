@@ -1,0 +1,17 @@
+{
+    "title": "下载APP客户端",
+    "info":"二十四时涨跌，尽在弹指间",
+    "support": "支持Android、iPhone多端业务功能",
+    "client": "客户端",
+    "help": {
+        "title": "iPhone 用户安装教程",
+        "step1Tit": "下载描述文件",
+        "step1Info": "扫码下载描述文件",
+        "step2Tit": "系统设置",
+        "step2Info": "打开设置，找到'已下载描述文件'",
+        "step3Tit": "选择安装",
+        "step3Info": "在'设置'>'已下载描述文件'中找到，选择安装",
+        "step4Tit": "启动APP",
+        "step4Info": "回到桌面，打开App即可。"
+    }
+}
